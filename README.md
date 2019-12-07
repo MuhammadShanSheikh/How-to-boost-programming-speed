@@ -30,7 +30,7 @@ Speed up programming skills
 Regards,
 Sr. Web Developer
 Muhammad Shan Sheikh
-Mobile/Whatsapp: 03336747574
+Mobile/Whatsapp: +923336747574
 Skype: sheikh.shan28
 Thanks 
 
