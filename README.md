@@ -1,16 +1,16 @@
 In this guide we do:
 
-How to boost your programming speed
+#### How to boost your programming speed
 
 Using Sublime 2/3 version
 
 ### Emmet:
 
 Installation Keys for Windows:<br>
-Ctrl + Shift + P
+#### Ctrl + Shift + P
 
 Installation Keys for Mac:<br>
-Command + Shift + P
+#### Command + Shift + P
 
 #### Youtube Channel:
  
@@ -28,7 +28,7 @@ Website Development Speed Up<br>
 Fast Development<br>
 Speed up programming skills<br>
 
-Regards,<br>
+Contact For Personal Training, Assignments and Projects<br>
 **Sr. Web Developer<br>
 Muhammad Shan Sheikh<br>
 Mobile/Whatsapp: +923336747574<br>
