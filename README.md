@@ -31,11 +31,7 @@ Fast Development<br>
 Speed up programming skills<br>
 Fast Programming<br>
 
-Contact For Personal Training, Assignments and Projects<br>
-**Sr. Web Developer<br>
-Muhammad Shan Sheikh<br>
-Mobile/Whatsapp: +923336747574<br>
-Skype: sheikh.shan28<br>
+
 Thanks**<br>
 <br>
 Keep learning and Sharing :)
